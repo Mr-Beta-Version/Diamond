@@ -11,4 +11,4 @@ $ cd Diamond
 
 $ python2 Go
 
-#Now Setup Your Termux 🙂
+# Now Setup Your Termux 🙂
